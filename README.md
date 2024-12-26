@@ -9,3 +9,7 @@ You need to install selenium libary for python.
 ## Usage
 
 ```python3 youtubeBot.py```
+
+## Tech Stack
+-Python 3
+-Selenium
