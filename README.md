@@ -11,5 +11,5 @@ You need to install selenium libary for python.
 ```python3 youtubeBot.py```
 
 ## Tech Stack
--Python 3
--Selenium
+- Python 3
+- Selenium
